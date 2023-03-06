@@ -1,4 +1,4 @@
-# Golang + Gin + Gorm + Nodemon + PostgreSQL + Swagger (REST API for PT. Phincon Attendance Apps)
+# Golang + Echo + Gorm + Nodemon + PostgreSQL + Swagger (REST API for PT. Phincon Attendance Apps)
 
 Requirement :
 - Go 1.16
